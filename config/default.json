@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://admin-kritapas:Test123@cluster0-khjly.mongodb.net/todolistDB",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "e9d968d9c84377198275",
+  "githubSecret": "3987605259ef7a2f4bd6a8a648920ce6acc6edf3"
+}
